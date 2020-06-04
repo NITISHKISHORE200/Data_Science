@@ -1,2 +1,6 @@
 sample test
+<<<<<<< HEAD
 test master branch after adding branch.
+=======
+my new branch entery.
+>>>>>>> thirsty
